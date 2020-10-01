@@ -35,3 +35,5 @@ For each cluster, you have the option of 'merging' the values together - that is
 >3. Using the `key collision` method with the `fingerprint` Keying Function, work through the clusters of values, merging them to a single value where appropriate
 >4. Try changing the clustering method being used - which ones work well?
 {: .challenge}
+
+{% include links.md %}

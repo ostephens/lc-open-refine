@@ -45,3 +45,5 @@ Trim leading and trailing whitespace | Removes any 'whitespace' characters (e.g.
 >3. On the publisher column use the dropdown menu to select ```Edit cells->Common transforms->Trim leading and trailing whitespace```
 >4. Look at the publisher facet now - has it changed? (if it hasn't changed try clicking the ```Refresh``` option to make sure it updates)
 {: .checklist}
+
+{% include links.md %}

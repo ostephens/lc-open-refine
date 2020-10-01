@@ -118,3 +118,5 @@ The list of values in the facet will update as you make edits.
 >>6. See how the Language facet updates
 >{: .solution}
 {: .challenge}
+
+{% include links.md %}

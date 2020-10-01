@@ -70,3 +70,5 @@ Some common scenarios might be:
 * You are NOT modifying original/raw data.
 * Saving will happen automatically, but it's important to [properly shut down OpenRefine to ensure this](https://github.com/OpenRefine/OpenRefine/wiki/Installation-Instructions).
 * Files are saved locally such that if you are working on two computers you will have to export/import files/projects.
+
+{% include links.md %}

@@ -76,3 +76,5 @@ Taking the above example again, this would result in a string with the days of t
 >2. In the Preview view you should be able see this has reversed the array, and joined it back into a string
 >* Click ```OK```
 {: .checklist}
+
+{% include links.md %}

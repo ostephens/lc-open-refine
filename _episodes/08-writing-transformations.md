@@ -43,3 +43,5 @@ Next to the 'Preview' option are options to view:
 >8. In the Preview pane under value.toTitlecase() you can see what the effect of running this will be
 >9. Click ```OK```
 {: .checklist}
+
+{% include links.md %}

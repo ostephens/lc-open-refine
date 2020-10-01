@@ -158,3 +158,5 @@ As it returns the whole row for each match, you can use a transformation to extr
 You can use this function to compare the contents of two OpenRefine projects, or to use data between the two projects.
 
 The [VIB-Bits extension](https://www.bits.vib.be/index.php/software-overview/openrefine) adds a number of very useful functions to OpenRefine including a way of using the 'cross' function with simply point-and-click functionality which makes looking up data from other projects much easier.
+
+{% include links.md %}

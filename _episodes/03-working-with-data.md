@@ -139,3 +139,5 @@ Splitting on a comma will not work with Authors because the names may include co
 > > * In the prompt type the ( \| ) symbol and click 'OK'
 > {: .solution}
 {: .challenge}
+
+{% include links.md %}

@@ -27,3 +27,5 @@ If you wish to save a set of steps to be re-applied later, for instance, to a di
 To apply a set of steps you have copied or saved in this 'JSON' format use the ```Apply``` button and paste in the JSON. In this way you can share transformations between projects and each other.
 
 Undo/Redo data is stored with the Project and is saved automatically as you work, so next time you open the project, you can access your full history of steps you have carried out and undo/redo in exactly the same way.
+
+{% include links.md %}
